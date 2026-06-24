@@ -16,17 +16,21 @@ To keep the Force from the field, the diminished TRADE FEDERATION has lined the 
 
 ---
 
-The diamond was chalked onto the floor of the Senate rotunda, and the chalk was the strange part, though no one in the stands would have thought to look.
+The diamond was chalked onto the floor of the Senate rotunda, though it wasn't really chalk. More of a finely-ground powder of dead coral, the stuff used for as long as anyone could remember to lay practical markings on ships and landing pads and the like — markings that never faded and never scuffed.
 
-It wasn't chalk. The calcified, marble-white stuff they etched the baselines with came from exactly one place in the galaxy: a single undersea volcano, venting on a world whose name had long since been left behind by the shifting trade routes. The routes wandered like a sandy river, forever cutting some new bed — they'd get you from the same point A to the same point B, more or less, but the systems strung along the way just quietly fell out of mind. Every so often one of them did something that mattered and earned a bump of trans-galactic traffic, and the hyperspace channels would shift a little nearer, on average, to whatever world was having its moment. This one hadn't had a moment in a very long time.
+The calcified, marble-white stuff they etched the baselines with came from exactly one place in the galaxy: a single undersea volcano, venting on a world whose name had long since been left behind by the shifting trade routes.
+
+The routes wandered like a shallow river in the dry season, meandering across a sandy delta, shifting places and changing the fortunes of the contours its fickle tendrils touched. They'd get you from the same point A to the same point B, more or less, but the systems strung along the way just quietly fell out of mind. Every so often one of them did something that mattered and earned a bump of trans-galactic traffic, and the hyperspace channels would shift a little nearer, on average, to whatever world was having its moment. This one hadn't had a moment in a very long time.
 
 And what it vented had the one property no other organic material in the galaxy could claim: midichlorians clung to it. Not to the living thing that had grown the shell, but to the shell itself, long after the life had gone out of it. The only dead matter in creation the Force would not let go of.
 
-So you could say, if you're into that kind of thing, that the baselines were painted with the Force. But that's torturing the idea a little bit. Force lines: one running out to first, one falling away down from third. The fair from the foul, drawn in the only substance left that still remembered being alive.
+So you could say, if you're into that kind of thing, that the baselines were painted with the Force. But that's torturing the idea a bit too much. Force lines: one running out to first, one falling away down from third. Cleaving the fair from the foul along a razor-thin boundary that decides whether a hit advances the batter's agenda or not — drawn in the only substance the midichlorians have no memory of.
+
+Do midichlorians die? Do they take a break to recharge? Is that why they gather in such vast numbers around this fine diatomaceous dust?
 
 Luke couldn't see them. Not the way he should have. They were bright paint on old stone to him now, nothing more — white lines laid across the great seal of the Republic that the Empire had never bothered to scrape away. He felt a little dizzy looking at them. It probably wasn't real dizziness; more likely just a perceptual glitch left over from the ysalamiri spa treatment they'd run him through on arrival — the slow, total foreclosure of a sense he'd spent years learning to lean on. Like standing up too fast inside a body that no longer answered all the way to the edges.
 
-Luke stood at the mouth of the visitors' dugout and reached out with his senses. The leather of a dozen different domestic animals mixed with the smell of the vast diaspora packed into the chamber — sweat and rain-damp cloaks and the dust of systems that no longer existed. The Senate had been thrown open to the public for this. Citizens and refugees and the merely curious, come to watch the epic conclusion of the war unfold in front of them. The fate of a thousand worlds, turning on a single apex moment.
+Luke stood at the mouth of the visitors' dugout and reached out with his senses. The leather of a dozen different domestic animals mixed with the smell of the vast diaspora packed into the chamber — sweat and rain-damp cloaks and the dust of systems that no longer existed. The Senate had been thrown open to the public for this. Citizens and refugees and the merely curious, come to watch the final day of the war that had ravaged the galaxy for longer than anyone remembered. Most people couldn't put a finger on a single moment or day when it had started. One day it was just there, almost as if it had always been there. But this was the day it would come to a definitive halt. By the end of the afternoon, either the galaxy in its entirety would be in chains, or it would be free of the evils of the Empire forever.
 
 If you had told Luke, that first night in the desert, that the final battle would be fought this way — no fleets, no trench run, just nine innings and a bat cut from a living moon — he'd have laughed. He wasn't laughing now. He wasn't feeling much of anything.
 
@@ -83,3 +87,23 @@ His reach was simply gone. What the lizards in the rafters had thrown over him w
 And he thought: a saber takes a life. This gave one back, as a thing you swing toward home.
 
 Maybe that was the whole gambit. Make the old man hold something that had been *alive*.
+
+---
+
+*[Body of the book to be drafted — the game, the stilling, the investigation, the twelfth-inning duel, the freeing of the ysalamiri. The opening above and the epilogue below bookend it.]*
+
+---
+
+## Epilogue
+
+Ryn lay stretched out on the too-short bench in the pod he shared with his wife, his feet hanging off the end and his head in Lryn's lap. Maybe they'd get a bigger place now — somewhere with room to stretch all the way out, now that the war was over.
+
+Now that *this* war was over.
+
+Could there be others? Of course there could. The wheel kept turning, kept coming back around to the same worn spokes; it always had. But did the next one have to be *his* war. Hadn't he done enough.
+
+Lryn reminded him, again, that he still hadn't played Luke's message. He didn't really need to. He could already feel the shape of it — the invitation sitting in the little emitter like a residue, something Luke had left behind in the recording the way a hand leaves its warmth on a rail. A summons to leave home again. To go and learn what he was; to study with Luke and draw the Jedi up out of him.
+
+It had been good to see Threepio again, even so. The droid had been sent to carry an answer back — to wait on Ryn's word and then return to Luke with it — and Ryn was in no hurry to give one. Not yet, anyway. Which meant putting up with the protocol droid's endless jabber a while longer.
+
+He wondered, idly, whether he could get his ysalamiri friends to see what might be done about silencing Threepio.
