@@ -104,9 +104,27 @@ He only knew that he wanted to feel it again.
 
 ---
 
-*[Body of the book — the game, the stilling, the investigation, the twelfth-inning duel, the freeing of the ysalamiri — still to be drafted. What follows is the battle's-end landing that carries into the epilogue.]*
+*[Body of the book — the game, the stilling, the investigation, the twelfth-inning duel, the freeing of the ysalamiri — still to be drafted. What follows is the kill and the battle's-end landing that carry into the epilogue.]*
 
 ---
+
+It came down to this: Luke with both hands on the grip, leaning his whole weight into a blade that would not go, and the old man laughing at him. Even now — bared, emptied, the Force torn out of him and gone to dust on his own chest — the Emperor laughed, because he could feel the thing Luke couldn't yet: that the one who would decide this was the one standing just behind.
+
+Vader's hand came out of the smoke.
+
+It closed over Luke's hands on the grip, and for one long breath it could have gone either way. He could tear them clean off at the wrist — Luke knew it, felt the strength waiting in the glove, and did not let go. He held the blade, and he held his father's eyes, and he waited.
+
+Then Vader pushed.
+
+With his son, not against him — leaning down into the same blade, and the banked weight of twelve innings came down with him. The living wood went home: past the clavicle, into the body cavity, lit from within now with the blaze of a star. The laughing stopped. Luke pulsed once, almost too bright to look at, and the life was simply gone.
+
+And so was his father.
+
+The pulse had gone out through the hands still locked over his own, and it had taken Vader with it — not dropped him, not killed him so much as *unmade* him, there and then not there, the way a candle is there and then is only smoke. Luke felt the absence the instant it opened: a hole where the largest presence in his whole life had been a half-second before, his father and his enemy both, gone in the same light that ended the master. The silence rushed in to fill it and couldn't.
+
+He didn't pull the blade out of the husk. He just switched it off, and what was left of the Emperor dropped to the floor like an empty coat.
+
+There was no one to turn to. That was the part the holos never showed — that you win, and then you stand alone in the wreckage with the ringing in your ears and no hand on your shoulder, because the ones who would have are gone, or were never coming, or are part of the count of the dead. It was a victory. There was simply too much death in it to call it anything but a waste. So many lives. So much suffering still ahead — the homeless under their cloth roofs, the worlds bled white, the children who would never once climb out of the poverty they'd been shoved down into. He had ended a war. He had not saved them, and standing there he wasn't sure anyone could.
 
 And then, just like that, it was quiet.
 
