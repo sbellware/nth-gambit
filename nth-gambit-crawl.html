@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Nth Gambit — Opening Crawl</title>
+<style>
+  :root { --crawl-yellow: #ffd54a; }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    height: 100%;
+    background: #000;
+    overflow: hidden;
+    font-family: 'Pathway Gothic One', 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+  }
+
+  #scene { position: fixed; inset: 0; overflow: hidden; }
+
+  /* ---- Starfield ---- */
+  #stars, #stars2, #stars3 {
+    position: absolute; inset: 0;
+    background-repeat: repeat;
+  }
+  #stars  { background-image:
+      radial-gradient(1px 1px at 20px 30px, #fff, transparent),
+      radial-gradient(1px 1px at 120px 80px, #fff, transparent),
+      radial-gradient(1px 1px at 200px 160px, #ddd, transparent),
+      radial-gradient(1px 1px at 300px 50px, #fff, transparent),
+      radial-gradient(1px 1px at 380px 200px, #eee, transparent);
+    background-size: 420px 260px; opacity: .8; }
+  #stars2 { background-image:
+      radial-gradient(1px 1px at 60px 120px, #fff, transparent),
+      radial-gradient(2px 2px at 240px 40px, #fff, transparent),
+      radial-gradient(1px 1px at 160px 220px, #ccc, transparent),
+      radial-gradient(1px 1px at 340px 140px, #fff, transparent);
+    background-size: 380px 300px; opacity: .6; }
+  #stars3 { background-image:
+      radial-gradient(2px 2px at 100px 60px, #fff, transparent),
+      radial-gradient(1px 1px at 280px 180px, #fff, transparent),
+      radial-gradient(1px 1px at 30px 240px, #ddd, transparent);
+    background-size: 500px 320px; opacity: .9; }
+
+  /* ---- Intro line ---- */
+  #intro {
+    position: absolute; top: 42%; left: 50%;
+    transform: translate(-50%, -50%);
+    color: #4bd5ee; font-size: clamp(1.1rem, 3.2vw, 2rem);
+    text-align: center; width: 90%; max-width: 760px;
+    letter-spacing: .04em; opacity: 0;
+  }
+  #intro.play { animation: introFade 7s ease-in-out forwards; }
+  @keyframes introFade {
+    0% { opacity: 0; } 14% { opacity: 1; }
+    78% { opacity: 1; } 100% { opacity: 0; }
+  }
+
+  /* ---- Title (zoom away) ---- */
+  #titleWrap {
+    position: absolute; inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    opacity: 0; pointer-events: none;
+  }
+  #titleWrap.play { animation: titleZoom 9s ease-in 6.5s forwards; }
+  #titleWrap h1 {
+    color: var(--crawl-yellow); text-align: center; line-height: .92;
+    font-weight: 700; letter-spacing: .02em;
+    font-size: clamp(2.4rem, 11vw, 8rem);
+    text-shadow: 0 0 28px rgba(255,180,40,.35);
+  }
+  #titleWrap h1 small { display:block; font-size:.42em; letter-spacing:.5em; margin-bottom:.45em; color:#ffe07a; }
+  @keyframes titleZoom {
+    0%   { opacity: 0; transform: scale(2.6); }
+    8%   { opacity: 1; transform: scale(2.4); }
+    50%  { opacity: 1; transform: scale(1); }
+    92%  { opacity: 0; transform: scale(.08); }
+    100% { opacity: 0; transform: scale(.04); }
+  }
+
+  /* ---- Crawl ---- */
+  #board {
+    position: absolute; inset: 0;
+    perspective: 420px; perspective-origin: 50% 0;
+    overflow: hidden;
+    -webkit-mask-image: linear-gradient(to top, transparent 6%, #000 30%, #000 100%);
+            mask-image: linear-gradient(to top, transparent 6%, #000 30%, #000 100%);
+  }
+  #crawl {
+    position: absolute; top: 100%; left: 50%;
+    width: min(92vw, 720px); margin-left: -360px;
+    color: var(--crawl-yellow);
+    text-align: justify;
+    transform-origin: 50% 0;
+    transform: rotateX(28deg) translateY(0);
+    opacity: 0;
+  }
+  @media (max-width: 760px){ #crawl{ margin-left: -46vw; } }
+  #crawl.play { animation: crawl 100s linear 8.5s forwards; }
+  #crawl .episode {
+    text-align: center; font-size: clamp(1.4rem, 4.5vw, 2.4rem);
+    letter-spacing: .12em; margin-bottom: 1.2em; font-weight: 700;
+  }
+  #crawl .title {
+    text-align: center; font-size: clamp(2rem, 7vw, 3.6rem);
+    line-height: 1; margin-bottom: 1.6em; font-weight: 700;
+  }
+  #crawl p {
+    font-size: clamp(1.3rem, 4.4vw, 2.2rem);
+    line-height: 1.5; margin-bottom: 1.1em; font-weight: 600;
+  }
+  @keyframes crawl {
+    0%   { opacity: 1; transform: rotateX(28deg) translateY(0); }
+    100% { opacity: 1; transform: rotateX(28deg) translateY(-310%); }
+  }
+
+  /* ---- Controls ---- */
+  #controls {
+    position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%);
+    display: flex; gap: 10px; z-index: 50;
+  }
+  #controls button {
+    background: rgba(0,0,0,.55); color: var(--crawl-yellow);
+    border: 1px solid rgba(255,213,74,.5); border-radius: 999px;
+    padding: 8px 18px; font: inherit; font-size: 14px; letter-spacing: .08em;
+    cursor: pointer; backdrop-filter: blur(4px); transition: background .2s, transform .1s;
+  }
+  #controls button:hover { background: rgba(255,213,74,.15); }
+  #controls button:active { transform: scale(.96); }
+
+  #start {
+    position: fixed; inset: 0; z-index: 60;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    background: #000; color: var(--crawl-yellow); cursor: pointer;
+    text-align: center; gap: 14px;
+  }
+  #start h2 { font-size: clamp(1.4rem,5vw,2.4rem); letter-spacing:.1em; font-weight:700; }
+  #start p { color:#9aa; font-size: 15px; letter-spacing:.05em; }
+</style>
+</head>
+<body>
+  <div id="scene">
+    <div id="stars"></div>
+    <div id="stars2"></div>
+    <div id="stars3"></div>
+
+    <div id="intro">A long time ago in a galaxy far,<br>far away....</div>
+
+    <div id="titleWrap">
+      <h1><small>EPISODE IX&nbsp;&frac12;</small>THE NTH<br>GAMBIT</h1>
+    </div>
+
+    <div id="board">
+      <div id="crawl">
+        <p>The GALACTIC CIVIL WAR has reached its bloodiest hour. Across a thousand systems the fleets of the EMPIRE and the REBEL ALLIANCE grind one another to ruin, and still no victor emerges.</p>
+        <p>Desperate to end the slaughter, LUKE SKYWALKER has struck a bargain with the Emperor: the war will be decided not by arms, but by a single game, played beneath the dome of the Senate itself. The loser will lay down its weapons forever.</p>
+        <p>To keep the Force from the field, the diminished TRADE FEDERATION has lined the chamber with creatures that still the Force in all who wield it. Now Jedi and Sith — only those few not away at the front — must meet as mere players. But in striking his wager, young Skywalker has wagered more than a galaxy. He has staked his own soul, and the bottom of the ninth is drawing near....</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="controls" hidden>
+    <button id="replay">Replay</button>
+  </div>
+
+  <div id="start">
+    <h2>THE NTH GAMBIT</h2>
+    <p>Click anywhere to begin the crawl</p>
+  </div>
+
+<script>
+  const intro = document.getElementById('intro');
+  const titleWrap = document.getElementById('titleWrap');
+  const crawl = document.getElementById('crawl');
+  const controls = document.getElementById('controls');
+  const startScreen = document.getElementById('start');
+  const replay = document.getElementById('replay');
+
+  function play() {
+    [intro, titleWrap, crawl].forEach(el => {
+      el.classList.remove('play');
+      void el.offsetWidth; // restart animations
+      el.classList.add('play');
+    });
+  }
+
+  function begin() {
+    startScreen.style.display = 'none';
+    controls.hidden = false;
+    play();
+  }
+
+  startScreen.addEventListener('click', begin);
+  replay.addEventListener('click', play);
+</script>
+</body>
+</html>
