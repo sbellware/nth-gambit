@@ -90,7 +90,19 @@ Maybe that was the whole gambit. Make the old man hold something that had been *
 
 ---
 
-*[Body of the book to be drafted — the game, the stilling, the investigation, the twelfth-inning duel, the freeing of the ysalamiri. The opening above and the epilogue below bookend it.]*
+*[Body of the book — the game, the stilling, the investigation, the twelfth-inning duel, the freeing of the ysalamiri — still to be drafted. What follows is the battle's-end landing that carries into the epilogue.]*
+
+---
+
+And then, just like that, it was quiet.
+
+Not the quiet of a frag going off too close — that deafening, ringing nothing that swallows the world whole for a while. Just an out-of-place silence. Wrong for a battle. Wrong, somehow, even for a ballgame. And just like that, it was over — so utterly anticlimactic that Ryn couldn't make himself believe it had happened at all.
+
+From one minute to the next they were standing in an entirely new era. But there was no fanfare. No cheering, no victory hugs, no one hoisted up onto shoulders. Only the dead — people who had been here a breath ago, whose whole lives had been burned out of existence between one pitch and the next. Ryn looked at them and couldn't find the part of himself that was supposed to feel like he'd won. He wondered if any of it had been worth it.
+
+He thought of home. Of his wife.
+
+And he wondered how a man was supposed to carry all of this back to a kitchen table — whether it would sit down across from him every night and mock him for eating with a fork instead of his dirty, bloody fingers, or whether, just this once, it might leave him in peace.
 
 ---
 
@@ -102,7 +114,17 @@ Now that *this* war was over.
 
 Could there be others? Of course there could. The wheel kept turning, kept coming back around to the same worn spokes; it always had. But did the next one have to be *his* war. Hadn't he done enough.
 
-Lryn reminded him, again, that he still hadn't played Luke's message. He didn't really need to. He could already feel the shape of it — the invitation sitting in the little emitter like a residue, something Luke had left behind in the recording the way a hand leaves its warmth on a rail. A summons to leave home again. To go and learn what he was; to study with Luke and draw the Jedi up out of him.
+He turned it off.
+
+The galaxy went quiet — not the ears, the other thing, the sense he was still getting used to having at all. Off, and he was just a man on a too-short bench with a sore back and his wife's hand in his hair, nothing reaching out of him and nothing reaching in. He let it sit a while in the dark of himself. Then he turned it back on, and the living weight of the room came up at him all at once — Lryn's pulse, the heat of the lamp, the last faint life still humming somewhere in the cellulose of the walls — too much, always too much, until he eased it back down to something a man could carry.
+
+On. Off. Like a lamp. No one else in the galaxy could do it; he'd been told as much, more than once, and always in the careful voice people used when they wanted something from him.
+
+Lryn reminded him, again, that he still hadn't played Luke's message. He didn't really need to. He could already feel the shape of it — the invitation sitting in the little emitter like a residue, something Luke had left behind in the recording the way a hand leaves its warmth on a rail. A summons to leave home again: to go and learn what he was, to study with Luke and draw the Jedi up out of him. But there was the other thing under it too, the thing Luke maybe hadn't meant to leave on the recording at all. There was work still out there. Whole sectors that hadn't heard the war was lost. Old garrisons still holding their posts for an Empire that wasn't anymore. The odd dark-robed holdout who'd kill a hundred people before he'd let himself believe his masters were dead. A man who could walk into a room with the Force switched clean off — there and not there, nothing for them to feel coming — and then switch it on from inside arm's reach. Luke had seen the use of him before he'd finished saying hello.
+
+Or he could just leave it off.
+
+He could leave it off and stay right where he was, his head in Lryn's lap, and let the rest of the galaxy round up its own stragglers for once. They still had the whole holophone shelf — the good pressings, the jizz greats they'd worn thin together in their first years, back before any of this had come for him. They could put the old records on and listen the afternoon down to nothing. He'd done enough. Hadn't he done enough.
 
 It had been good to see Threepio again, even so. The droid had been sent to carry an answer back — to wait on Ryn's word and then return to Luke with it — and Ryn was in no hurry to give one. Not yet, anyway. Which meant putting up with the protocol droid's endless jabber a while longer.
 
