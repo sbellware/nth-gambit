@@ -90,6 +90,20 @@ Maybe that was the whole gambit. Make the old man hold something that had been *
 
 ---
 
+His turn came.
+
+Luke stepped into the box and could feel almost nothing of it — not the pitcher, not the ball, not the crowd or the field or anything past the half-step the lizards left him. The pitch came in as a thing he saw and not a thing he sensed, which was its own quiet wrongness, like reading a word in a language he'd once been fluent in only in dreams. There was just the bat, warm in his hands, and his own breath, and the held silence of a hundred thousand strangers waiting on a game almost none of them understood.
+
+He swung.
+
+The bat met the ball and something ran up the grain into his palms — a bright, fizzing rush of pins and needles, the way a sleeping limb comes awake. It startled him so badly he nearly forgot to run. And then, absurdly, standing on the line with the sound still ringing off the dome, he wanted to laugh, because it had felt *good*. After all that smothering absence, that foreclosed half-step of a world, here was a sensation that reached him — clean and sharp and alive, traveling up out of the dead wood and into his hands as though the bat had something it had been trying to say, and had found, at last, a way to say it.
+
+He didn't know what it was. He filed it away as a strangeness, a small mercy, a bit of feeling in a body that had been holding its breath for innings.
+
+He only knew that he wanted to feel it again.
+
+---
+
 *[Body of the book — the game, the stilling, the investigation, the twelfth-inning duel, the freeing of the ysalamiri — still to be drafted. What follows is the battle's-end landing that carries into the epilogue.]*
 
 ---
