@@ -2,6 +2,10 @@
 
 *Current overview and structure for the Star Wars fan-fiction draft. Companion to the Manuscript and Universe files. Refreshed to reflect the full development of Ryn, Thrawn, the climax, and the open ending.*
 
+## Timeline placement
+
+An **alternate-universe Galactic Civil War** story occupying the *Return of the Jedi* slot (the deaths of the Emperor and Vader, the war's end) — roughly the **post–*A New Hope*, ~4 ABY** era — but in an AU where the war never ended at Endor and **ground on into a long, decaying age**: strong at the center, fraying at the rim, settled at last by the wager instead of a battle. (Full note in the Universe file.)
+
 ## The spine
 
 **One line:** To end a galaxy-spanning war, Luke wagers everything on a single baseball game where the Force has been switched off — and the only way to *win* is to free the tormented creatures doing the switching, a mercy that can only be performed by one broken man whose buried gift turns out to be the unmaking of the Force itself.

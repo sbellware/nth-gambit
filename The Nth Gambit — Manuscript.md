@@ -22,7 +22,7 @@ It was always a forest moon now. Canopy worlds one after another, green on green
 
 Pell Naru crossed the command deck with a dispatch in his hand. He was a wisp of a thing in the robes, tall and thin, and he set the slate down at the commander's station with the quiet the older officers had long since stopped trying to read.
 
-"A communique, Commander. Routed to us — the sender wants it carried on to the Empire."
+"A communique, Commander. Routed to us through Organa's relief office — the sender wants it carried on to the Empire."
 
 "From whom?"
 
@@ -66,7 +66,7 @@ If you had told Luke, that first night in the desert, that the final battle woul
 
 That same moon had done more for the Federation than shade one ballgame. With its creatures in hand it was no longer quite defenceless against the Jedi or the Sith — but it had its mission to mind, and it seemed content, now, to travel different routes than the rest of the galaxy. It didn't keep to itself, exactly. People simply stopped seeking it out. Its delegates wandered the edges of charted space like a mendicant order — a strange thing to find in a galaxy that already had its Jedi and its Sith: a new monastic order, fallen out the bottom of a diminished Federation, the houses that had drifted below the cutoff line, too near the epicenter when the crash came.
 
-There were still grand families, to be sure. But the schisms had fractured the Federation's governance into a handful of sects, and there were six Viceroys now. Even the Arbitrator sect had a Viceroy, if you could believe it. They remained a great power in a galaxy of obscene disparities — of wealth, and of distance, for so many of them had simply dissolved into the spaces between the stars, out where the systems were too undeveloped for anyone to have bothered plotting them: no charts, only a curve of gravimetric potential that hinted there might be planets. And where there were planets, there were moons. Forested ones. And what the galaxy needed a great deal of, just now, was cellulose.
+There were still grand families, to be sure — or the wreckage of them. The crash had thrown off splinters, and the splinters had drifted apart in the years since, each one growing into something the others would no longer recognize: its own values, its own appetites, its own god. Most hadn't lasted. Of all the sects that had spun off the dying cartel, only two or three were left now, disintegrated from one another, no longer even in contact, each gone entirely its own way. Even the Arbiter sect had a Viceroy, if you could believe it — a Viceroy of penitents. They remained a power, after their fashion, in a galaxy of obscene disparities — of wealth, and of distance, for so many of them had simply dissolved into the spaces between the stars, out where the systems were too undeveloped for anyone to have bothered plotting them: no charts, only a curve of gravimetric potential that hinted there might be planets. And where there were planets, there were moons. Forested ones. And what the galaxy needed a great deal of, just now, was cellulose.
 
 ---
 
