@@ -18,7 +18,7 @@ To keep the Force from the field, the diminished TRADE FEDERATION has lined the 
 
 The Trade Federation cruiser hung in a slow orbit, and below it the moon turned — green and patient and enormous, the way they all were.
 
-It was always a forest moon now. Canopy worlds one after another, green on green on green, another haul of cellulose to be surveyed and tallied and stripped, another rock to be put to use. It was all this sect of the Federation seemed to want anymore. They had gone more monk than merchant since the schism, and a man could serve a full tour aboard and never once hear the word *profit* — only salvage, and tonnage, and the slow, patient work of stitching the galaxy back together one felled forest at a time.
+It was always a forest moon now. Canopy worlds one after another, green on green on green, another haul of structural cellulose to be surveyed and tallied and stripped, another rock to be put to use. It was all this sect of the Federation seemed to want anymore. They had gone more monk than merchant since the schism, and a man could serve a full tour aboard and never once hear the word *profit* — only salvage, and tonnage, and the slow, patient work of stitching the galaxy back together one felled forest at a time.
 
 Pell Naru crossed the command deck with a dispatch in his hand. He was a wisp of a thing in the robes, tall and thin, and he set the slate down at the commander's station with the quiet the older officers had long since stopped trying to read.
 
