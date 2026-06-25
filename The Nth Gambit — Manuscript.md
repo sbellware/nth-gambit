@@ -16,7 +16,31 @@ To keep the Force from the field, the diminished TRADE FEDERATION has lined the 
 
 ---
 
-It was the Trade Federation, in the end, that had carried the wager between the boy and the old man — the one pair of hands both sides would trust to hold a message, now that the Federation had come down far enough in the world to have no side of its own left to take. This was well into the years of their reduction: the grand houses broken up, a great many of them stripped of their fiduciary privileges, the stripped delegates reinvented as the arbiter sect — a mendicant guild of frontier judiciaries, by now in full and peculiar flower, going world to world seeking out and transacting for forest moons, coaxing the galaxy back toward the level of consumerism the Federation forecasts as its own inflection point, the threshold past which it rebounds. Arbitrating the game fell to them almost by default; they had brokered the thing, after all. And the Federation, having "inherited" the late Grand Admiral's ysalamiri breeding moon, had lined the Senate chamber with the creatures that day. No ordinary Force user could extend his reach past a few centimeters of his own skin; even the strongest, straining at the limit, could push it no further than a handsbreadth. Imagine it: meeting the Sith Lord in single combat, with only our own physical bodies and the speed of our minds to bear down on the other.
+The Trade Federation cruiser hung in a slow orbit, and below it the moon turned — green and patient and enormous, the way they all were.
+
+It was always a forest moon now. Canopy worlds one after another, green on green on green, another haul of cellulose to be surveyed and tallied and stripped, another rock to be put to use. It was all this sect of the Federation seemed to want anymore. They had gone more monk than merchant since the schism, and a man could serve a full tour aboard and never once hear the word *profit* — only salvage, and tonnage, and the slow, patient work of stitching the galaxy back together one felled forest at a time.
+
+Pell Naru crossed the command deck with a dispatch in his hand. He was a wisp of a thing in the robes, tall and thin, and he set the slate down at the commander's station with the quiet the older officers had long since stopped trying to read.
+
+"A communique, Commander. Routed to us — the sender wants it carried on to the Empire."
+
+"From whom?"
+
+"Luke Skywalker."
+
+For a moment the deck was very quiet.
+
+"And what does it say?" one of the senior officers asked.
+
+"It's a request for parlay," Pell said. "Between the Rebel Alliance and the Empire. Peace talks."
+
+The commander considered it for about as long as it took to decide it was none of his concern. He turned the slate over once in his hands and gave it back. "Subspace comms, Naru. Have it serialized and transmitted to the Imperial Palace on Coruscant, immediate priority. We pass it along, we've done our part, and we wash our hands of the whole affair." He had already turned back to the viewport, to the green world filling it. "Then back to the survey. This moon won't salvage itself."
+
+Pell took the dispatch and went. And not one of them — not the commander, not the senior officers, not Pell Naru with the thing still warm in his hand — had the first idea what they were carrying, nor what waited, patient and uncountable, in the green dark of the moon below.
+
+---
+
+Arbitrating the game, when it came to that, fell to the Federation too. They had brokered the thing, after all, and they were the one party both sides would still trust to hold the scales — now that they'd come down far enough in the world to have no side of their own left to take. And the Federation, having "inherited" the late Grand Admiral's ysalamiri breeding moon, lined the Senate chamber with the creatures the day of the game. No ordinary Force user could extend his reach past a few centimeters of his own skin; even the strongest, straining at the limit, could push it no further than a handsbreadth. Imagine it: meeting the Sith Lord in single combat, with only our own physical bodies and the speed of our minds to bear down on the other.
 
 The diamond was chalked onto the floor of the Senate rotunda, though it wasn't really chalk. More of a finely-ground powder of dead coral, the stuff used for as long as anyone could remember to lay practical markings on ships and landing pads and the like — markings that never faded and never scuffed.
 
@@ -135,6 +159,22 @@ From one minute to the next they were standing in an entirely new era. But there
 He thought of home. Of his wife.
 
 And he wondered how a man was supposed to carry all of this back to a kitchen table — whether it would sit down across from him every night and mock him for eating with a fork instead of his dirty, bloody fingers, or whether, just this once, it might leave him in peace.
+
+Luke found him there a while later, in the gutted quiet, and lowered himself onto the bench at Ryn's side, and for a long time neither of them said anything.
+
+It was Luke who broke it. He kept reaching out — Ryn could feel him do it, a man patting his pockets for something he was sure he'd had a moment ago. "I can feel him," Luke said at last. "Out there. I think I can. My father." He frowned at the middle distance. "Or I can't, and it's only an echo. I can't tell anymore which is the Force and which is just wanting it — whether he's somewhere out in all that, or whether I've gone and built a somewhere to put him in, so I don't have to think of him as nowhere at all."
+
+He said it like a man standing at the lip of a long fall, and Ryn understood, the way he had come to understand the creatures, that the fall was real, and that Luke would go on falling down it for the rest of his life if no one reached in and stopped him.
+
+So he did.
+
+He didn't quite decide to. His hand came up and settled at the back of Luke's head, low, at the base of the skull, the way you'd cradle someone who'd been hurt — and he reached in. Not for the Force; nothing like the field. Just the ache of it: the raw, circling grief, the haunting that wouldn't let the man's eyes come to rest. He drew it out the way you'd draw a splinter, slow and whole, careful not to snap it off inside. The visions guttered and went out. And the question of where Vader was, and whether he was anywhere at all, went out with them — not answered, only unhooked, lifted clean away from the part of Luke that had been bleeding against it.
+
+The strain left Luke's face. He blinked, and looked around the ruined chamber as though he'd only just walked into it and couldn't recall what for, and there came over him a heaviness — the good, sinking heaviness of a long fever finally breaking.
+
+"I'm sorry," he said, vaguely. "I've — lost the thread of it. What were we...?" A small, tired smile came up that didn't seem to know what it was smiling about. "I think I'd better rest. Forgive me."
+
+He got to his feet, unsteady, lighter than he had been in years and not knowing why, and he left Ryn sitting there alone with what he'd taken.
 
 ---
 
